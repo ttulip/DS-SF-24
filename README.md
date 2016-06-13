@@ -45,10 +45,10 @@ Tuesdays | Thursdays
  
  **Pre-work for second lecture**
  
-  - Review all lecture notes including [Lecture Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx), [Numpy notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Numpy.ipynb), and [Pandas notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
-  - Finish self-study Github guidlines listed above
-  - **Finish** [Inclass Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
-  - Review [final project requirements](https://github.com/ga-students/DS-SF-24/blob/master/final-projects/readme.md). You can find timelines for final project at slide 11 of [Lecture 1](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx) PowerPoint Slides
+ - Review all lecture notes including [Lecture Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx), [Numpy notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Numpy.ipynb), and [Pandas notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
+ - Finish self-study Github guidlines listed above
+ - **Finish** [Inclass Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
+ - Review [final project requirements](https://github.com/ga-students/DS-SF-24/blob/master/final-projects/readme.md). You can find timelines for final project at slide 11 of [Lecture 1](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx) PowerPoint Slides
   
 **Additional Resources**
 
