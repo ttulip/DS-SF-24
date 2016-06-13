@@ -43,7 +43,7 @@ Tuesdays | Thursdays
  - [excellent videos to set-up github](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD). Students who have not used GitHub before must watch these videos.
  - A hands-on introduction to Git and GitHub, and how to make them work together! More Git resources for beginners [here](http://www.dataschool.io/tag/git/)
  
- **Pre-work for second lecture**
+**Pre-work for second lecture**
  
  - Review all lecture notes including [Lecture Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx), [Numpy notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Numpy.ipynb), and [Pandas notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
  - Finish self-study Github guidlines listed above
