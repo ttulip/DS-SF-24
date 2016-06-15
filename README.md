@@ -13,7 +13,7 @@ Tuesdays | Thursdays
 7/12: Logistic Regression Part II | 7/14: In Class Project 
 7/19: Decision Trees Part I | 7/21: Decision Trees Part II
 7/26: Natural Language Processing | 7/28: Time Series Models
-8/2: Principal Component Analysis | 8/4: TBD
+8/2: Principal Component Analysis | 8/4: Data Visualization
 8/9: Naive Bayes | 8/11: Course Review
 8/16: Final Project Presentations I | 8/18: Final Project Presentations II
 
@@ -27,6 +27,7 @@ Tuesdays | Thursdays
  - Continuous, Discrete and Qualitative Data
  - Supervised vs Unsupervised Learning
  - Classification vs Regression
+ - Time series vs cross-sectional data
  - Numpy
  - Pandas
  
@@ -34,8 +35,10 @@ Tuesdays | Thursdays
  
  - [Lecture 1 - Introduction - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx)
  - [Intro Numpy - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Numpy.ipynb)
+  - [Intro Numpy - Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Numpy_Solutions.ipynb)
  - [Intro Pandas - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Pandas.ipynb)
  - [InClass Practice Code - Pandas](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
+ - [InClass Practice Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code-Solutions.ipynb)
  
 **Set up GitHub - Self-study guide**
 
