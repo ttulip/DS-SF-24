@@ -35,7 +35,7 @@ Tuesdays | Thursdays
  
  - [Lecture 1 - Introduction - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx)
  - [Intro Numpy - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Numpy.ipynb)
-  - [Intro Numpy - Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Numpy_Solutions.ipynb)
+ - [Intro Numpy - Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Numpy_Solutions.ipynb)
  - [Intro Pandas - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Pandas.ipynb)
  - [InClass Practice Code - Pandas](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
  - [InClass Practice Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code-Solutions.ipynb)
@@ -71,3 +71,13 @@ Tuesdays | Thursdays
  - [Basic Statistics - Part 2 - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202%20-%20Intro.ipynb) 
  - [Basic Statistics - Part 2 - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202-%20Intro%20-Practice-Code.ipynb)
 
+
+**HW 1 is Assigned**
+
+ - Please read and follow instructions from [readme](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/readme.md)
+ - This homework is due on Jun 23rd, 2016 at 6:30PM
+
+**Additional Resources**
+
+ - [Here](http://matplotlib.org/resources/index.html) you can find valuable resources for matplotlib
+ - [A good Video](https://www.youtube.com/watch?v=Pujol1yC1_A) on Centeral Limit Theorem

@@ -13,8 +13,8 @@
 Here is the Kaggle page with more information on the dataset:
 [http://www.kaggle.com/c/titanic-gettingStarted/data](http://www.kaggle.com/c/titanic-gettingStarted/data)
 Don’t worry about downloading the data from Kaggle; we have provided the HW1 dataset for you. Download it from Github and Move this data file to the directory where you like to do your iPython notebook work.
-Alternatively, you can read dataset this way
-url = 
+Alternatively, you can read dataset from the following URL
+url = "https://raw.githubusercontent.com/ga-students/DS-SF-24/master/HW%20Assignments/HW1/titanic.csv"
 ##HOMEWORK QUESTIONS￼Please answer the following questions about your data exploration in the iPython notebook. Feel free to explore further. These questions are a guide and a minimum, not a limit ;-)
 1. How many passengers are in our passenger list? From here forward, we’ll assume our dataset represents the full passenger list for the Titanic.2. What is the overall survival rate?3. How many male passengers were onboard?
 4. How many female passengers were onboard?
