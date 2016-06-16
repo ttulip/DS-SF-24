@@ -59,3 +59,15 @@ Tuesdays | Thursdays
  - [Julia Evans Pandas Cookbook](https://github.com/jvns/pandas-cookbook). Great resource with examples from weather, bikes and 311 calls
  - [Learn Pandas Tutorials](https://bitbucket.org/hrojas/learn-pandas). A great series of Pandas tutorials from Dave Rojas
  - [Research Computing Python Data PYNBs](https://github.com/ResearchComputing/Meetup-Fall-2013/tree/master/python). A super awesome set of python notebooks from a meetup-based course exclusively devoted to pandas
+ 
+ 
+## Lecture 2 Summary (Data Science Intorduction - Part II)
+- Measures of central tendency (Mean, Median, Mode, Quartiles, Percentiles)- Measures of Variability (IQR, Standard Deviation, Variance)- Skewness Coefficient - Boxplots, Histograms, Scatterplots- Central Limit Theorem- Class/Dummy Variables
+- Walkthrough describing and visualizing data in Pandas
+
+**Resources**
+ 
+ - [Lecture 2 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%202%20-%20Introduction%20-%20Part%202.pptx) 
+ - [Basic Statistics - Part 2 - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202%20-%20Intro.ipynb) 
+ - [Basic Statistics - Part 2 - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202-%20Intro%20-Practice-Code.ipynb)
+
